@@ -1,0 +1,16 @@
+<resources>
+
+    <declare-styleable name="CollapseTextView">
+        <attr name="originalText" format="string" />
+        <attr name="originalTextColor" format="color|reference" />
+        <attr name="originalTextSize" format="dimension" />
+
+        <attr name="expandText" format="string" />
+        <attr name="expandTextColor" format="color|reference" />
+        <attr name="expandTextSize" format="dimension" />
+
+        <attr name="expandImage" format="reference" /> 
+        <attr name="collapseImage" format="reference" />
+
+    </declare-styleable>
+</resources>
