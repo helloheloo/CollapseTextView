@@ -31,13 +31,13 @@
                 android:id="@+id/coll_tv"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-
                 app:expandText="@string/expand_text"
                 app:expandTextColor="@android:color/holo_purple"
-
+                app:expandImage="@mipmap/but_open_text"
                 app:originalText="@string/original_text"
                 app:originalTextColor="@android:color/holo_red_dark"
                 android:layout_margin="30dp"
+                app:collapseImage="@mipmap/but_close_text"
                 />
         </LinearLayout>
 
