@@ -1,6 +1,6 @@
 # CollapseTextView
 可展开或收缩的文本展示控件
-##用法
+##用法        
 ···java
 <com.helloheloo.collapsetextview.CollapseTextView
       android:id="@+id/coll_tv"
@@ -15,5 +15,5 @@
 ···
 app:expandText 需要展开或收缩的文字<br>
 app:expandTextColor 需要展开或收缩的文字颜色<br>
-app:originalText 默认显示的文字
-app:originalTextColor 默认显示的文字颜色
+app:originalText 默认显示的文字<br>
+app:originalTextColor 默认显示的文字颜色<br>
