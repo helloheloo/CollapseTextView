@@ -1,5 +1,6 @@
 # CollapseTextView
 可展开或收缩的文本展示控件
+![](https://github.com/helloheloo/CollapseTextView/raw/master/CollapseTextView.gif)
 ## 用法        
 ~~~java
 <com.helloheloo.collapsetextview.CollapseTextView
